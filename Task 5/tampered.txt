@@ -1,0 +1,3 @@
+This is the original secure content.
+
+[!] Tampered with malicious data.
